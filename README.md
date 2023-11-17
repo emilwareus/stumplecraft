@@ -1,2 +1,2 @@
-# stumplecraft
-A game I build togheter with my little brother Theo
+# Stumplecraft
+A game I built together with my little brother Theo.
